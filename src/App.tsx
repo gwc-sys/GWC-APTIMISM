@@ -47,7 +47,7 @@ function App() {
               </li>
 
               <li>
-                <a href="#feedback" className="navbar-link" data-nav-link>Feedback</a>
+                <a href="#feedback" className="navbar-link" data-nav-link>Testimonial</a>
               </li>
 
               <li>
@@ -722,12 +722,12 @@ function App() {
 
           </section>
 
-          {/* - #FEEDBACK */}
+          {/* - #testimonial */}
 
           <section className="section feedback" id="feedback" aria-label="feedback">
             <div className="container">
 
-              <h1 className="h2 section-title text-center">We Value Your Feedback</h1>
+              <h1 className="h2 section-title text-center">Testimonial</h1>
               <p className="section-text text-center">
                 Please let us know your thoughts and suggestions to help us improve.
               </p>
